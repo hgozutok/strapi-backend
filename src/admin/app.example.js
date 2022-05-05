@@ -23,6 +23,7 @@ export default {
       // 'sv',
       // 'th',
       // 'tr',
+      // 'zh-CN',
       // 'uk',
       // 'vi',
       // 'zh-Hans',
